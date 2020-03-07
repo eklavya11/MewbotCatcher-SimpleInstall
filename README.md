@@ -1,3 +1,9 @@
+# Read carefully !
+This is not the bot !
+The free version was available on the discord server below.
+Due to changes in pokécord's ways, the free version doesn't work anymore and is not updatable.
+The paid version has been updated to work with the new Pokécord's update.
+
 # PokeCatcher-SimpleInstall
 AutoCatcher and helper for Pokecord !!
 The screenshot are from different version of the bot, if you want to see the current features, I suggest you to join the discord server.
@@ -21,25 +27,25 @@ The screenshot are from different version of the bot, if you want to see the cur
 
 # Contact
 
-- You can contact me on discord my username is : Yewolf#6909.
+- You can contact me on discord my username is : BSFR - Yewolf#0690.
 - Or you can join this server : https://discord.gg/Q8NbBeQ.
 - The current price of the bot is currently at 15€ and I only accept Paypal or Paysafecards.
 
 # Screenshots
 
-![an image is here :c](https://raw.githubusercontent.com/smagghetristan/PokeCatcher-SimpleInstall/master/Screen5.png)
+![an image is here :c](https://raw.githubusercontent.com/yyewolf/PokecordCatcher-SimpleInstall/master/Screen5.png)
 
-![an image is here :c](https://raw.githubusercontent.com/smagghetristan/PokeCatcher-SimpleInstall/master/Screen6.png)
+![an image is here :c](https://raw.githubusercontent.com/yyewolf/PokecordCatcher-SimpleInstall/master/Screen6.png)
 
-![an image is here :c](https://raw.githubusercontent.com/smagghetristan/PokeCatcher-SimpleInstall/master/Screen7.png)
+![an image is here :c](https://raw.githubusercontent.com/yyewolf/PokecordCatcher-SimpleInstall/master/Screen7.png)
 
-![an image is here :c](https://raw.githubusercontent.com/smagghetristan/PokeCatcher-SimpleInstall/master/Screen8.png)
+![an image is here :c](https://raw.githubusercontent.com/yyewolf/PokecordCatcher-SimpleInstall/master/Screen8.png)
 
-![an image is here :c](https://raw.githubusercontent.com/smagghetristan/PokeCatcher-SimpleInstall/master/Screen1.png)
+![an image is here :c](https://raw.githubusercontent.com/yyewolf/PokecordCatcher-SimpleInstall/master/Screen1.png)
 
-![an image is here :c](https://raw.githubusercontent.com/smagghetristan/PokeCatcher-SimpleInstall/master/Screen2.png)
+![an image is here :c](https://raw.githubusercontent.com/yyewolf/PokecordCatcher-SimpleInstall/master/Screen2.png)
 
-![an image is here :c](https://raw.githubusercontent.com/smagghetristan/PokeCatcher-SimpleInstall/master/Screen3.png)
+![an image is here :c](https://raw.githubusercontent.com/yyewolf/PokecordCatcher-SimpleInstall/master/Screen3.png)
 
-![an image is here :c](https://raw.githubusercontent.com/smagghetristan/PokeCatcher-SimpleInstall/master/Screen4.png)
+![an image is here :c](https://raw.githubusercontent.com/yyewolf/PokecordCatcher-SimpleInstall/master/Screen4.png)
 

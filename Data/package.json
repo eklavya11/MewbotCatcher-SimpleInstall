@@ -15,7 +15,7 @@
     "jade": "^1.11.0",
     "jsonfile": "*",
     "keypress": "^0.2.1",
-    "mathjs": "^3.16.5",
+    "mathjs": "^3.17.0",
     "md5-hex": "^2.0.0",
     "random-int": "^1.0.0",
     "request": "^2.83.0",

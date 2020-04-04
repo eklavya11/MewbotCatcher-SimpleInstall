@@ -1,4 +1,5 @@
 # Read carefully !
+The free trial is available here in the release tab !
 This is not the bot !
 The free version was available on the discord server below.
 Due to changes in pokécord's ways, the free version doesn't work anymore and is not updatable.

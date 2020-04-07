@@ -11,7 +11,7 @@ The screenshot are from different version of the bot, if you want to see the cur
 
 # Setting Up
 
-- You will only require the token of the account you want to run this bot on, it's better if it's an alt as selfbots violate ToS and you can get banned. To grab your token visit [this page](https://github.com/TheRacingLion/Discord-SelfBot/wiki/Discord-Token-Tutorial).
+- You will only require the token of the account you want to run this bot on, it's better if it's an alt as self-bots violate ToS and you can get banned. To grab your token visit [this page](https://github.com/TheRacingLion/Discord-SelfBot/wiki/Discord-Token-Tutorial).
 - For further configuration you'll need to start the bot and access localhost:3000
 
 # Free trial
@@ -28,9 +28,9 @@ The screenshot are from different version of the bot, if you want to see the cur
 
 # Contact
 
-- You can contact me on discord my username is : BSFR - Yewolf#0690.
+- You can contact me on discord my username is : Yewolf#0690.
 - Or you can join this server : https://discord.gg/Q8NbBeQ.
-- The current price of the bot is currently at 15€ and I only accept Paypal or Paysafecards.
+- The current price of the bot is currently at 15€ and I only accept Paypal.
 
 # Screenshots
 

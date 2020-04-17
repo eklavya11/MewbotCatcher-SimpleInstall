@@ -1,9 +1,9 @@
 # Read carefully !
-The free trial is available here in the release tab !
-This is not the bot !
-The free version was available on the discord server below.
-Due to changes in pokécord's ways, the free version doesn't work anymore and is not updatable.
-The paid version has been updated to work with the new Pokécord's update.
+The free trial is available here in the release tab !  
+This is not the bot !  
+The free version is available on the discord server below.  
+The free version is only there for Proof of Work purposes, it won't catch, spam and display your list !  
+The paid version has been updated to work with the new Pokécord's update.  
 
 # PokeCatcher-SimpleInstall
 AutoCatcher and helper for Pokecord !!
@@ -13,11 +13,6 @@ The screenshot are from different version of the bot, if you want to see the cur
 
 - You will only require the token of the account you want to run this bot on, it's better if it's an alt as self-bots violate ToS and you can get banned. To grab your token visit [this page](https://github.com/TheRacingLion/Discord-SelfBot/wiki/Discord-Token-Tutorial).
 - For further configuration you'll need to start the bot and access localhost:3000
-
-# Free trial
-
-- You can post a ticket [here](https://bots.yewolf.ovh/) to apply for a free trial. 
-- Add your Discord name + tag.
 
 # This doesn't work ?
 

@@ -1,5 +1,5 @@
 # Read carefully !
-Last update : 5/9/2020 - v2.5.2
+Last update : 5/10/2020 - v2.5.3
 The free trial is available here in the release tab !  
 This is not the bot !  
 The free version is available on the discord server below.  

@@ -1,13 +1,13 @@
 # Read carefully !
-Last update : 5/25/2020 - v2.5.5
+Last update : 5/30/2020 - v2.6.0
 The free trial is available here in the release tab !  
 This is not the bot !  
 The free version is available on the discord server below.  
 The free version is only there for Proof of Work purposes, it won't catch, spam and display your list !  
 The paid version has been updated to work with the new Pokécord's update.  
 
-# PokeCatcher-SimpleInstall
-AutoCatcher and helper for Pokecord !!
+# PokeCatcher-SimpleInstall Mewbot
+AutoCatcher and helper for Mewbot !!
 The screenshot are from different version of the bot, if you want to see the current features, I suggest you to join the discord server.
 
 # Setting Up
@@ -30,19 +30,19 @@ The screenshot are from different version of the bot, if you want to see the cur
 
 # Screenshots
 
-![an image is here :c](https://raw.githubusercontent.com/yyewolf/PokecordCatcher-SimpleInstall/master/Screen5.png)
+![an image is here :c](https://raw.githubusercontent.com/yyewolf/MewbotCatcher-SimpleInstall/master/Screen5.png)
 
-![an image is here :c](https://raw.githubusercontent.com/yyewolf/PokecordCatcher-SimpleInstall/master/Screen6.png)
+![an image is here :c](https://raw.githubusercontent.com/yyewolf/MewbotCatcher-SimpleInstall/master/Screen6.png)
 
-![an image is here :c](https://raw.githubusercontent.com/yyewolf/PokecordCatcher-SimpleInstall/master/Screen7.png)
+![an image is here :c](https://raw.githubusercontent.com/yyewolf/MewbotCatcher-SimpleInstall/master/Screen7.png)
 
-![an image is here :c](https://raw.githubusercontent.com/yyewolf/PokecordCatcher-SimpleInstall/master/Screen8.png)
+![an image is here :c](https://raw.githubusercontent.com/yyewolf/MewbotCatcher-SimpleInstall/master/Screen8.png)
 
-![an image is here :c](https://raw.githubusercontent.com/yyewolf/PokecordCatcher-SimpleInstall/master/Screen1.png)
+![an image is here :c](https://raw.githubusercontent.com/yyewolf/MewbotCatcher-SimpleInstall/master/Screen1.png)
 
-![an image is here :c](https://raw.githubusercontent.com/yyewolf/PokecordCatcher-SimpleInstall/master/Screen2.png)
+![an image is here :c](https://raw.githubusercontent.com/yyewolf/MewbotCatcher-SimpleInstall/master/Screen2.png)
 
-![an image is here :c](https://raw.githubusercontent.com/yyewolf/PokecordCatcher-SimpleInstall/master/Screen3.png)
+![an image is here :c](https://raw.githubusercontent.com/yyewolf/MewbotCatcher-SimpleInstall/master/Screen3.png)
 
-![an image is here :c](https://raw.githubusercontent.com/yyewolf/PokecordCatcher-SimpleInstall/master/Screen4.png)
+![an image is here :c](https://raw.githubusercontent.com/yyewolf/MewbotCatcher-SimpleInstall/master/Screen4.png)
 

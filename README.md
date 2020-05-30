@@ -28,7 +28,10 @@ The screenshot are from different version of the bot, if you want to see the cur
 - Or you can join this server : https://discord.gg/Q8NbBeQ.
 - The current price of the bot is currently at 15€ and I only accept Paypal.
 
+
 # Screenshots
+
+Those screenshots are outdated, but the bot works the same with Mewbot !
 
 ![an image is here :c](https://raw.githubusercontent.com/yyewolf/MewbotCatcher-SimpleInstall/master/Screen5.png)
 
